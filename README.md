@@ -1,3 +1,9 @@
+### OLÁ, SOU ERIKA OLIVEIRA!!
+
+ 💻📚Estou em constante aprendizado, explorando diversas áreas como HTML, CSS, JavaScript, Python, Node.js, React básico, Mysql, MongoDB e atualmente Cloud AWS.
+ Acredito que o conhecimento é um caminho sem fim, e estudar um pouco de tudo nos torna mais preparados para enfrentar desafios e criar soluções inovadoras. Para mim, cada nova 
+ habilidade é uma oportunidade de ampliar horizontes e contribuir de forma mais significativa no mundo da tecnologia 🙂.
+
 <div style="display: inline_block"><br>
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
