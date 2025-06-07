@@ -23,3 +23,9 @@
 
   ##
 ![Erika GitHub stats](https://github-readme-stats.vercel.app/api?username=erikaoliveiracorrea&show_icons=true&theme=radical)
+
+##
+<h3>#😀 PENSAMENTO 😀#</h3>
+
+<img height="200" width="350" src="https://cdn.pensador.com/img/imagens/pe/ns/pensador_frases_estudos_5.jpg?auto_optimize=low&width=655">
+
