@@ -18,3 +18,4 @@
 </div>
 
   ##
+![Erika GitHub stats](https://github-readme-stats.vercel.app/api?username=erikaoliveiracorrea&show_icons=true&theme=radical)
