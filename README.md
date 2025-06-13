@@ -1,4 +1,4 @@
-### OLÁ, SOU ERIKA OLIVEIRA!!
+## OLÁ, SOU ERIKA OLIVEIRA!! 
 
  💻📚Estou em constante aprendizado, explorando diversas áreas como HTML, CSS, JavaScript, Node.js, React básico, Mysql, MongoDB e atualmente Cloud AWS.
  Acredito que o conhecimento é um caminho sem fim, e estudar um pouco de tudo nos torna mais preparados para enfrentar desafios e criar soluções inovadoras. Para mim, cada nova 
