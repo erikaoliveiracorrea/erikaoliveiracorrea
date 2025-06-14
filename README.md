@@ -1,5 +1,4 @@
-![Perfil-rosa](https://github.com/user-attachments/assets/f1d8ce13-6fc6-4153-8340-a7274dc13c38)
-
+![texto-rosa](https://github.com/user-attachments/assets/c6ed303c-8ec5-46d8-aff3-d2b6a89f9d4b)
 
 💻📚Estou em constante aprendizado, explorando diversas áreas como HTML, CSS, JavaScript, Node.js, React básico, Mysql, MongoDB e atualmente Cloud AWS.
  Acredito que o conhecimento é um caminho sem fim, e estudar um pouco de tudo nos torna mais preparados para enfrentar desafios e criar soluções inovadoras. Para mim, cada nova 
