@@ -1,6 +1,8 @@
 <h2>Olá, sou Erika Oliveira!</h2>
 
- 💻📚Estou em constante aprendizado, explorando diversas áreas como HTML, CSS, JavaScript, Node.js, React básico, Mysql, MongoDB e atualmente Cloud AWS.
+![Ol-sou-Erika-Oliveira-13-06-2025 (1)](https://github.com/user-attachments/assets/b88afd37-7d40-4f6f-8ccb-3dc00e2187ff)
+
+💻📚Estou em constante aprendizado, explorando diversas áreas como HTML, CSS, JavaScript, Node.js, React básico, Mysql, MongoDB e atualmente Cloud AWS.
  Acredito que o conhecimento é um caminho sem fim, e estudar um pouco de tudo nos torna mais preparados para enfrentar desafios e criar soluções inovadoras. Para mim, cada nova 
  habilidade é uma oportunidade de ampliar horizontes e contribuir de forma mais significativa no mundo da tecnologia 🙂.
 
