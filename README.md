@@ -1,7 +1,7 @@
 ![img-texto-rosa](https://github.com/user-attachments/assets/740fde65-b28d-4d13-9513-ab36231d9270)
 
 
-💻📚Estou em constante aprendizado, explorando diversas áreas como HTML, CSS, JavaScript, Node.js, React básico, Mysql, MongoDB e atualmente Cloud AWS.
+💻📚Estou em constante aprendizado, explorando diversas áreas como HTML, CSS, JavaScript, Node.js, Mysql, MongoDB e atualmente Cloud AWS.
  Acredito que o conhecimento é um caminho sem fim, e estudar um pouco de tudo nos torna mais preparados para enfrentar desafios e criar soluções inovadoras. Para mim, cada nova 
  habilidade é uma oportunidade de ampliar horizontes e contribuir de forma mais significativa no mundo da tecnologia 🙂.
 
@@ -15,7 +15,6 @@
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="NodeJS" height="35" width="35" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"> 
-<img align="center" alt="React" height="35" width="35" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000">
 <img align="center" alt="Git" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-git-18-1175219.png">
 <img align="center" alt="Mysql" height="40" width="40" src="https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000">
 <img align="center" alt="Mysql" height="40" width="40" src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000"> 
