@@ -23,7 +23,8 @@
 <img align="center" alt="Mysql" height="40" width="40" src="https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000">
 <img align="center" alt="PostgreSql" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-logo-icon-svg-download-png-3030216.png?f=webp">
 <img align="center" alt="Cloud" height="40" width="40" src="https://cbtproxy.com/_next/image?url=https%3A%2F%2Fcms.cbtproxy.com%2Fapi%2Fmedia%2Ffile%2FAWS-Certified-Cloud-Practitioner.png&w=256&q=75">
-<img align="center" alt="SpringBoot" height="40" width="40" src="https://miro.medium.com/1*i9qQBPdQXR-If4xMfWhXPg.png"> 
+<img align="center" alt="Java" height="42" width="40" src="https://img.icons8.com/color/512/java-coffee-cup-logo.png"> 
+<img align="center" alt="SpringBoot" height="38" width="40" src="https://miro.medium.com/1*i9qQBPdQXR-If4xMfWhXPg.png"> 
 </div>
 
 
