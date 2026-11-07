@@ -32,3 +32,20 @@
 
 <img height="200" width="350" src="https://cdn.pensador.com/img/imagens/pe/ns/pensador_frases_estudos_5.jpg?auto_optimize=low&width=655">
 
+
+<h2 align="center">🐍 Minhas contribuições no GitHub</h2>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/erikaoliveiracorrea/erikaoliveiracorrea/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/erikaoliveiracorrea/erikaoliveiracorrea/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/erikaoliveiracorrea/erikaoliveiracorrea/output/github-contribution-grid-snake.svg"
+  />
+</picture>
